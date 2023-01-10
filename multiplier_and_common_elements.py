@@ -174,7 +174,7 @@ def main():
 
                         # Displays the elements of the list divided
                         print(
-                            f"The product of each element with the divided is: {list_divided}"
+                            f"The quotient of each element with the divisor is: {list_divided}"
                         )
 
         # IF the user wanted to find the common/uncommon elements in 2 lists
@@ -228,7 +228,7 @@ def main():
 
         # Asks user if they want to run the program again
         yes_or_no = input(
-            "Do you want to repeat the program? (Enter '1' to repeat or '2' to end the program): "
+            "Do you want to repeat the program? (Enter anything to repeat or '2' to end the program): "
         )
 
         # IF the user want to end the program
